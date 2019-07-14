@@ -8,6 +8,5 @@ Psicólogo, master en estadística (Bélgica) y master en psicología de la salu
 	
 Curioso y autodidacta. Me apasiona utilizar Data - machine learning y predictive modelling- para generar insights que permitan replantear las estrategias de negocio.
 	
-Como hobby, elaboro estadística deportiva usando Big data, tengo una página de fútbol llamada [Matemáticamente posible](https://www.facebook.com/matematicamenteposible/) y [Stats SOS](https://statssos.net/) para enseñar estadística de manera sencilla y comunicable.
 
 Mi CV completo lo puedes ver [aquí](Smart_Twenty_Seconds_CV_castellano.pdf)
