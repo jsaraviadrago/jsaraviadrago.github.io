@@ -1,9 +1,9 @@
 ---
-title: "Research"
+
 
 ---
 
-## Publicaciones personales
+### Publicaciones personales
 
 - Persike, M et al. & Saravia, J.C. (2018). Emerging Adults’ Psychopathology in Seven Countries: The Impact of Identity-Related Risk Factors. Emerging Adulthood.  1-16
 DOI: 10.1177/2167696818791108
@@ -15,8 +15,10 @@ DOI: 10.1177/2167696818791108
 - Saravia, J. C., Gutierrez, C., & Frech, H. (2014). Factores asociados al inicio de consumo de drogas ilícitas en escolares adolescentes.  Revista Peruana de Epidemiología. 18(1) 1-7
 - Saravia, J. C., & Frech, H. (2012). Relación entre autoeficacia, autoestima y el consumo de drogas médicas sin prescripción en escolares de colegios urbanos de Perú. (2012) Revista Peruana de Epidemiología. 16(3) 1-7
  - Saravia, J. C., Mejia, M., Becerra, S., & Palomino, A. (2012). Violencia física contra la mujer durante el embarazo: prevalencia y factores asociados. (2012) Revista Peruana de Epidemiología. 16(2) 1-5.
+ 
+Si quieres leer los artículos puedes mirar mi [página de researchgate](https://www.researchgate.net/profile/Juan_Carlos_Saravia)
 
-## Publicaciones como parte del Ministerio de Educación del Perú
+### Publicaciones como parte del Ministerio de Educación del Perú
 
 - MINEDU. (2018). Desafíos en la medición y el análisis del estatus socioeconómico de los estudiantes peruanos. Lima: Autor. [Ver aquí](http://umc.minedu.gob.pe/desafios-en-la-medicion-y-el-analisis-del-estatus-socioeconomico-de-los-estudiantes-peruanos/)
 
