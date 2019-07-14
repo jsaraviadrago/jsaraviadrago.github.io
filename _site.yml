@@ -20,7 +20,4 @@ navbar:
       href: https://twitter.com/statssos
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/jcsaraviadrago/
-output:
-  html_document:
-    theme: paper
-    css: 'styles.css'
+
