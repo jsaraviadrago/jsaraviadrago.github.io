@@ -1,0 +1,23 @@
+name: "Juan Carlos Saravia"
+output_dir: "."
+navbar:
+  title: "Juan Carlos Saravia"
+  left:
+    - text: "Portafolio"
+      href: portafolio.html
+    - text: "Research"
+      href: research.html
+    - text: "Programming"
+      href: software.html
+    - text: "Blogs"
+      href: blogs.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/jsaraviadrago
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/statssos
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/jcsaraviadrago/
+
