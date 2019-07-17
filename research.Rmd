@@ -31,4 +31,4 @@ Si quieres leer los artículos puedes mirar mi [página de researchgate](https:/
 ### Publicaciones personales
 
 - Saravia, J. C. (2018). Como juega Perú. Revista H. 80 1-2.
-[Portada aquí](IMG_2809.JPG). [Leer aquí]()
+[Portada aquí](images/IMG_2809.JPG). [Leer aquí]()
