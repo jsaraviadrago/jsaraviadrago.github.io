@@ -5,7 +5,7 @@
 
 ### Documentos
 
-- Saravia, J. C (2015). Extending Job hindrance and well being: The mediation effect of mindfulness. [Ver aquí](images/Extending_JH.pdf.pdf). [Código aquí](https://github.com/jsaraviadrago/Portafolio/tree/master/3.%20Job%20hindrance%20(2015))
+- Saravia, J. C (2015). Extending Job hindrance and well being: The mediation effect of mindfulness. [Ver aquí](images/Extending_JH.pdf). [Código aquí](https://github.com/jsaraviadrago/Portafolio/tree/master/3.%20Job%20hindrance%20(2015))
 
 - Saravia, J. C (2014). How is income distributed between districts by age and job type in Lima Peru. [Ver aquí](images/Income_peru.pdf)
 
