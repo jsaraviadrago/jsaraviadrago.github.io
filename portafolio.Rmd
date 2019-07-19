@@ -5,9 +5,9 @@
 
 ### Documentos
 
-- Saravia, J. C (2015). Extending Job hindrance and well being: The mediation effect of mindfulness. [Ver aquí]("Portafolio/Extending Job hindrance and well being. The mediation effect of mindfulness.pdf"). [Código aquí](https://github.com/jsaraviadrago/Portafolio/tree/master/3.%20Job%20hindrance%20(2015))
+- Saravia, J. C (2015). Extending Job hindrance and well being: The mediation effect of mindfulness. [Ver aquí]("Portafolio/Extending_JH.pdf.pdf"). [Código aquí](https://github.com/jsaraviadrago/Portafolio/tree/master/3.%20Job%20hindrance%20(2015))
 
-- Saravia, J. C (2014). How is income distributed between districts by age and job type in Lima Peru. [Ver aquí]("Portafolio/How is income distributed between districts by age and job type in Lima Peru_ A multilevel analysis_Juan_Carlos_Saravia.pdf")
+- Saravia, J. C (2014). How is income distributed between districts by age and job type in Lima Peru. [Ver aquí]("Portafolio/Income_peru.pdf")
 
 - Saravia, J. C (2014). Propiedades psicométricas de la Escala de Autoestima en escuelas urbanas de Perú. [Ver aquí]("Portafolio/Escala de Autoestima.pdf"). [Código aquí](https://github.com/jsaraviadrago/Portafolio/tree/master/2.%20Autoestima%20(2014))
 
