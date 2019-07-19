@@ -5,11 +5,11 @@
 
 ### Documentos
 
-- Saravia, J. C (2015). Extending Job hindrance and well being: The mediation effect of mindfulness. [Ver aquí]("images/Extending_JH.pdf.pdf"). [Código aquí](https://github.com/jsaraviadrago/Portafolio/tree/master/3.%20Job%20hindrance%20(2015))
+- Saravia, J. C (2015). Extending Job hindrance and well being: The mediation effect of mindfulness. [Ver aquí](images/Extending_JH.pdf.pdf). [Código aquí](https://github.com/jsaraviadrago/Portafolio/tree/master/3.%20Job%20hindrance%20(2015))
 
-- Saravia, J. C (2014). How is income distributed between districts by age and job type in Lima Peru. [Ver aquí]("images/Income_peru.pdf")
+- Saravia, J. C (2014). How is income distributed between districts by age and job type in Lima Peru. [Ver aquí](images/Income_peru.pdf)
 
-- Saravia, J. C (2014). Propiedades psicométricas de la Escala de Autoestima en escuelas urbanas de Perú. [Ver aquí]("images/Escala de Autoestima.pdf"). [Código aquí](https://github.com/jsaraviadrago/Portafolio/tree/master/2.%20Autoestima%20(2014))
+- Saravia, J. C (2014). Propiedades psicométricas de la Escala de Autoestima en escuelas urbanas de Perú. [Ver aquí](images/Escala de Autoestima.pdf). [Código aquí](https://github.com/jsaraviadrago/Portafolio/tree/master/2.%20Autoestima%20(2014))
 
 - Saravia, J. C. (2013). Factores psicológicos y conductuales de la salud en un grupo de universitarios de Lima Metropolitana. Tesis de Maestría en psicología de la salud. PUCP: Lima. Autor. [Ver aquí](https://www.researchgate.net/publication/275340384_Factores_psicologicos_y_conductuales_de_la_salud_en_un_grupo_de_universitarios_de_Lima_Metropolitana). [Código aquí](https://github.com/jsaraviadrago/Portafolio/tree/master/1.%20Tesis%20salud%20(2013))
 
