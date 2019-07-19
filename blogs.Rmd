@@ -5,3 +5,7 @@
 - [Matemáticamente posible](https://www.facebook.com/matematicamenteposible/) una página de sports analytics. [Código aquí](https://github.com/jsaraviadrago/Mate-posible)
 
 - [Stats SOS](https://statssos.net/) una página para enseñar estadística de manera sencilla y comunicable.
+
+### Presentaciones 
+
+- "Matemáticamente posible". Pechakucha (2018). Volumen 40. Octubre.
