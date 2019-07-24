@@ -2,6 +2,6 @@
 
 ---
 
-Justo en este momento estoy trabajando en mi paquete de R llamado "Bluegrafi". En este habrán funciones para calcular "Average variance extracted" y "composite realiability". 
+Justo en este momento estoy trabajando en mi paquete de R llamado "Bluegrafi". En este habrán funciones para calcular "Average variance extracted" y "composite reliability". 
 
 
