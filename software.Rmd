@@ -2,11 +2,12 @@
 
 ---
 
-["bluegrafi":](https://github.com/jsaraviadrago/bluegrafi) Es un paquete que tiene funciones para calcular "Average variance extracted" y "composite reliability", además, te permite hacer tablas resumen de los indices de a justo de modelos de ecuaciones estructurales y análisis factorial confirmatorio. 
+[bluegrafi](https://github.com/jsaraviadrago/bluegrafi) 
+Es un paquete que tiene funciones para calcular "Average variance extracted" y "composite reliability", además, te permite hacer tablas resumen de los indices de a justo de modelos de ecuaciones estructurales y análisis factorial confirmatorio. 
 
 Para utilizarlo tienes que seguir los siguientes pasos: 
 
-```{r Codigo para utilizar bluegrafi, message=FALSE, warning=FALSE, paged.print=FALSE}
+```{r Codigo para utilizar bluegrafi, message=FALSE, warning=FALSE, paged.print=FALSE, eval=FALSE}
 # Descargar devtools si es que no tienes este paquete
 install.packages("devtools") 
 
