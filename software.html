@@ -328,7 +328,16 @@ $(document).ready(function () {
 
 <hr />
 <hr />
-<p>Justo en este momento estoy trabajando en mi paquete de R llamado “Bluegrafi”. En este habrán funciones para calcular “average residual error” y “composite realiability”.</p>
+<p><a href="https://github.com/jsaraviadrago/bluegrafi">“bluegrafi”:</a> Es un paquete que tiene funciones para calcular “Average variance extracted” y “composite reliability”, además, te permite hacer tablas resumen de los indices de a justo de modelos de ecuaciones estructurales y análisis factorial confirmatorio.</p>
+<p>Para utilizarlo tienes que seguir los siguientes pasos:</p>
+<pre class="r"><code># Descargar devtools si es que no tienes este paquete
+install.packages(&quot;devtools&quot;) 
+
+library(devtools) # abrir el paquete
+
+# Instalar el paquete desde github
+# Primero se pone el nombre del usuario y separado por &quot;/&quot; el nombre del paquete
+install_github(&quot;jsaraviadrago/bluegrafi&quot;) </code></pre>
 
 
 
