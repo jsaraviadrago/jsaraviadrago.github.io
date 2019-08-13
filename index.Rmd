@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/images/IMG_3042.jpg" style="width:25%; margin-right: 20px" align="left">
+<img src="images/IMG_3042.jpg" style="width:25%; margin-right: 20px" align="left">
 
 Mis intereses son responder las curiosidades del mundo con data, que esta sea amigable para todos y que esto nos lleve a usarla más en el día a día.
 
