@@ -16,6 +16,7 @@ library(devtools) # abrir el paquete
 # Instalar el paquete desde github
 # Primero se pone el nombre del usuario y separado por "/" el nombre del paquete
 install_github("jsaraviadrago/bluegrafi") 
+library(bluegrafi)
 
 
 ```
