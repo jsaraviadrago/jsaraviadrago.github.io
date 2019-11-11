@@ -2,8 +2,8 @@
 
 
 ---
-
 ### Trabajos como consultor últimos años
+
 
 - Análisis psicométrico de pruebas a docentes y cálculo de tamaño de muestra para un estudio de habilidades a docentes. DIFOID, Ministerio de Educación del Perú. (MINEDU) (2019).
 - Análisis predictivo de estilos de comunicación del lider y relación lider-miembro del equipo. ESAN. (2019).
@@ -13,3 +13,5 @@
 - Análisis psicométricos utilizando teoría de respuesta al ítem para medir habilidades de estudiantes en el idioma inglés. Innova schools. (2017).
 - Análisis de predicción de deserción de estudiantes.  Innova schools. (2017).
 - Análisis cuantitativos de satisfacción de clientes. Innova schools. (2017).
+
+Nota: por temas de confidencialidad no puedo compartir el código utilizado en estos proyectos. 
