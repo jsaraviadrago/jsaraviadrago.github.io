@@ -3,7 +3,7 @@
 
 ---
 
-### Documentos
+### **Documentos**
 
 - Saravia, J. C. (2017). Evaluating the psychometric properties of the Spanish version of the Family Sense of Coherence scale: How valuable is this measurement for health promotion? [Ver aquí](images/Escalas_FSOC.pdf). [Código aquí](https://github.com/jsaraviadrago/Portafolio/tree/master/4.%20Family%20Sense%20of%20Coherence%20(2017))
 
@@ -17,7 +17,7 @@
 
 - Saravia, J. C. (2013). Factores psicológicos y conductuales de la salud en un grupo de universitarios de Lima Metropolitana. Tesis de Maestría en psicología de la salud. PUCP: Lima. Autor. [Ver aquí](https://www.researchgate.net/publication/275340384_Factores_psicologicos_y_conductuales_de_la_salud_en_un_grupo_de_universitarios_de_Lima_Metropolitana). [Código aquí](https://github.com/jsaraviadrago/Portafolio/tree/master/1.%20Tesis%20salud%20(2013))
 
-### Publicaciones académicas
+### **Publicaciones académicas**
 
 - Persike, M et al. & Saravia, J.C. (2018). Emerging Adults’ Psychopathology in Seven Countries: The Impact of Identity-Related Risk Factors. Emerging Adulthood.  1-16
 DOI: 10.1177/2167696818791108
@@ -33,7 +33,7 @@ DOI: 10.1177/2167696818791108
  
 Si quieres leer los artículos puedes mirar mi [página de researchgate](https://www.researchgate.net/profile/Juan_Carlos_Saravia)
 
-### Publicaciones como parte del Ministerio de Educación del Perú
+### **Publicaciones como parte del Ministerio de Educación del Perú**
 
 - MINEDU. (2018). Desafíos en la medición y el análisis del estatus socioeconómico de los estudiantes peruanos. Lima: Autor. [Ver aquí](http://umc.minedu.gob.pe/desafios-en-la-medicion-y-el-analisis-del-estatus-socioeconomico-de-los-estudiantes-peruanos/)
 
