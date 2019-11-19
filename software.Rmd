@@ -4,10 +4,10 @@
 
 <img src="images/bluegrafir.PNG" style="width:25%; margin-right: 20px" align="right">
 
-# bluegrafir
+# **bluegrafir**
 
 
-Es un paquete que tiene funciones para calcular "Average variance extracted" y "composite reliability". Te permite hacer tablas resumen de los indices de a justo de modelos de ecuaciones estructurales, análisis factorial confirmatorio y transformaciones lineales. 
+Es un paquete que tiene funciones para calcular "Average variance extracted" y "Composite reliability". Te permite hacer tablas resumen de los indices de a justo de modelos de ecuaciones estructurales, análisis factorial confirmatorio y transformaciones lineales. 
 
 Para utilizarlo tienes que seguir los siguientes pasos: 
 
