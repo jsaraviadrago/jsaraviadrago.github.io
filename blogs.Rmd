@@ -2,21 +2,19 @@
 
 ---
 
-### Blogs
+### **Blogs**
 
 - [Matemáticamente posible](https://www.facebook.com/matematicamenteposible/) una página de sports analytics. [Código aquí](https://github.com/jsaraviadrago/Mate-posible)
 
 - [Stats SOS](https://statssos.net/) una página para enseñar estadística de manera sencilla y comunicable.
 
-### Presentaciones 
+### **Presentaciones** 
 
 - "Matemáticamente posible". (2019). TEDxYouthTukuy. Agosto. [Código de Word Cloud](https://github.com/jsaraviadrago/Mate-posible)
 
 - "Matemáticamente posible". (2018). Pechakucha - Volumen 40. Octubre. [Ver aquí](https://www.youtube.com/watch?v=kC85LBaDUZo&feature=youtu.be)
 
-
-
-### Publicaciones personales
+### **Publicaciones personales**
 
 - Saravia, J. C. (2018). Cómo juega Perú. Revista H. 80 1-2.
 [Portada aquí](images/IMG_2809.JPG). [Ver aquí](images/Articulo_revista_H.pdf)

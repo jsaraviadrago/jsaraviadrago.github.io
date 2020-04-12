@@ -2,24 +2,30 @@
 
 ---
 
-[bluegrafir](https://github.com/jsaraviadrago/bluegrafir) 
-Es un paquete que tiene funciones para calcular "Average variance extracted" y "composite reliability", además, te permite hacer tablas resumen de los indices de a justo de modelos de ecuaciones estructurales y análisis factorial confirmatorio. 
+<img src="images/bluegrafir.PNG" style="width:25%; margin-right: 20px" align="right">
+
+# **bluegrafir**
+
+
+Es un paquete que tiene funciones para calcular "Average variance extracted" (AVE) y "Composite reliability". Te permite hacer tablas resumen de los indices de ajust de modelos de ecuaciones estructurales, análisis factorial confirmatorio y transformaciones lineales. 
 
 Para utilizarlo tienes que seguir los siguientes pasos: 
 
 ```{r Codigo para utilizar bluegrafi, message=FALSE, warning=FALSE, paged.print=FALSE, eval=FALSE}
-# Descargar devtools si es que no tienes este paquete
+# Descargar devtools si es que no tienes este paquete para poder acceder a la función que permite abrir paquetes en Github.
 install.packages("devtools") 
 
-library(devtools) # abrir el paquete
+library(devtools) # cargar el paquete
 
 # Instalar el paquete desde github
 # Primero se pone el nombre del usuario y separado por "/" el nombre del paquete
 install_github("jsaraviadrago/bluegrafir") 
-library(bluegrafir)
+library(bluegrafir) # cargar el paquete
 
 
 ```
 
+Si deseas tener un mayor detalle del aspecto técnico de este paquete puedes ir a la página web del paquete en [Github](https://github.com/jsaraviadrago/bluegrafir).
 
+En esta página encontrarás el aspecto técnico con el detalle de las funciones y qué cálculos realizan.
 
