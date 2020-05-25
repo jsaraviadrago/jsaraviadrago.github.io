@@ -5,6 +5,9 @@
 
 ### **Documentos**
 
+- Saravia, J. C. (2020). Un poco de ajedrez en la época el COVID-19. [Ver aquí](https://medium.com/@jsaraviadrago/un-poco-de-ajedrez-en-la-época-del-covid-19-3be353cc9c82)
+[Código aquí](https://github.com/jsaraviadrago/Portafolio/tree/master/6.%20Chess%20predictions%20(2019)) 
+
 - Saravia, J. C. (2017). Evaluating the psychometric properties of the Spanish version of the Family Sense of Coherence scale: How valuable is this measurement for health promotion? [Ver aquí](images/Escalas_FSOC.pdf). [Código aquí](https://github.com/jsaraviadrago/Portafolio/tree/master/4.%20Family%20Sense%20of%20Coherence%20(2017))
 
 - Saravia, J. C. (2016). Evaluation of the psychometric properties of the SOC-13 scale in Mexico. [Ver aquí](images/SOC_Mexico.pdf). [Código aquí](https://github.com/jsaraviadrago/Portafolio/tree/master/5.%20SOC%20in%20mexico%20(2016))
