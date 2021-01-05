@@ -5,6 +5,8 @@
 
 ### **Documentos**
 
+- Saravia, J. C. (2020). ¿Qué nos enseño Gareca y la selección peruana en su camino hacia el mundial? [Ver aquí](https://medium.com/@jsaraviadrago/qué-nos-enseño-gareca-y-la-selección-peruana-en-su-camino-hacia-el-mundial-c849dc50fe1).[Código aquí](https://github.com/jsaraviadrago/Mate-posible/tree/master/Data%20eliminatorias%202022/Previa%20Eliminatorias%202022)
+
 - Saravia, J. C. (2020). Un poco de ajedrez en la época el COVID-19. [Ver aquí](https://medium.com/@jsaraviadrago/un-poco-de-ajedrez-en-la-época-del-covid-19-3be353cc9c82).
 [Código aquí](https://github.com/jsaraviadrago/Portafolio/tree/master/6.%20Chess%20predictions%20(2019)) 
 
