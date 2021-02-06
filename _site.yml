@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "Juan Carlos Saravia"
   left:
-    - text: "Portafolio"
+    - text: "Portfolio"
       href: portafolio.html
     - text: "Consulting"
       href: research.html
