@@ -5,17 +5,17 @@
 
 # **bluegrafir**
 
-It's a package under construction and has functions to calculate Average variance extracted" (AVE) and "Composite reliability". It let's make summary tables about model fit on confirmatory factor analysis, structural equation modelling and linear transformations. 
+It's a package under construction and has functions to calculate "Average variance extracted" (AVE) and "Composite reliability". It let's make summary tables about model fit on confirmatory factor analysis, structural equation modelling and linear transformations. 
 
 
 
 In order to use it, you can follow these steps:
 
 ```{r Codigo para utilizar bluegrafi, message=FALSE, warning=FALSE, paged.print=FALSE, eval=FALSE}
-# Download devtools to open packages hosted in Github .
+# Download devtools to open packages hosted in Github.
 install.packages("devtools") 
 
-library(devtools) # cargar el paquete
+library(devtools) # Load the package
 
 # Install the package in Github
 # 
