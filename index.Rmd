@@ -4,14 +4,26 @@
 
 <img src="images/IMG_3042.JPG" style="width:25%; margin-right: 20px" align="left">
 
-Mis intereses son responder las curiosidades del mundo con data, que esta sea amigable para todos y que esto nos lleve a usarla más en el día a día.
+My goal is to solve my own curiosity and others with Data and encourage others to use Data for their everyday life. I'm passionate on using Data and machine learning models to gather insights and that can be translated into business decisions and actions. 
 
-Soy psicólogo, master en estadística (Bélgica) y master en psicología de la salud. Estoy especializado en Data Analytics, Predictive Models y Psychometrics. Tengo experiencia liderando la construcción de modelos predictivos para empresas innovadoras, educación y salud. 
+Specialiazed in Machine learning and Psychometrics. TED speaker. I have experience leading data teams on end to end predictive modeling. I have worked with educational, consumer goods and health enterprises. I am curious and love to keep learning as an autodidact. 
+I use R, Python and Julia for work, play and for contributing to the community. For work, I have used those languages for psychometrics, machine learning and multilevel modelling. 
+
+For contributing to the open-community, I am working on an R package, named after my cats called bluegrafir, that makes easier psychometrics reports. 
+
+For play, I use R and Python to create sports analytics and display results in my blog "Mathematically possible". I tell the hidden story of how Peru's national football had ¨Mathematical possible¨ chances to reach the World Cup after +30 years without attending the tournament. (And we did!).
+
+
+```{r}
+
+#Mis intereses son responder las curiosidades del mundo con data, que esta sea amigable para todos y que esto nos lleve a usarla más en el día a día.
+
+#Soy psicólogo, master en estadística (Bélgica) y master en psicología de la salud. Estoy especializado en Data Analytics, Predictive Models y Psychometrics. Tengo experiencia liderando la construcción de modelos predictivos para empresas innovadoras, educación y salud. 
 	
-Curioso y autodidacta. Me apasiona utilizar Data - machine learning y predictive modelling- para generar insights que permitan replantear las estrategias de negocio.
+#Curioso y autodidacta. Me apasiona utilizar Data - machine learning y predictive modelling- para generar insights que permitan replantear las estrategias de negocio.
 
-Tengo la motivación de inspirar a la gente a que use la data para que tome mejores decisiones en los diversos ámbitos de su vida. Mi pasión me ha llevado a crear un espacio de sports analytics para mostrar que el fútbol puede verse de forma científica e interesante. Además, tengo un blog que invita a perderle el temor al uso de la data y a verla amigable.      
+#Tengo la motivación de inspirar a la gente a que use la data para que tome mejores decisiones en los diversos ámbitos de su vida. Mi pasión me ha llevado a crear un espacio de sports analytics para mostrar que el fútbol puede verse de forma científica e interesante. Además, tengo un blog que invita a perderle el temor al uso de la data y a verla amigable.      
 
-	
+```
 
-Mi CV completo lo puedes ver [aquí](Smart_Twenty_Seconds_CV_castellano.pdf)
+You can look into my resume in spanish [here](Smart_Twenty_Seconds_CV_castellano.pdf) and in english [here](Juan_Carlos_Saravia_resume.pdf)
