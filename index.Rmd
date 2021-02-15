@@ -4,13 +4,11 @@
 
 <img src="images/IMG_3042.JPG" style="width:25%; margin-right: 20px" align="left">
 
-My goal is to solve my own curiosity with Data and encourage others to use Data for work and everyday life. I'm passionate on using Data to gather insights that can be translated into business decisions and actions. I love to keep learning as an autodidact. 
+My goal is to encourage others to use Data to make +50 work decisions and to solve curiosities in their everyday life. I’m passionate about using Data to gather insights that can be translated into business decisions and actions.
 
-Specialiazed in Machine learning, Psychometrics and Multilevel modelling. TED speaker. I have experience leading data teams on end to end predictive modeling. I have worked with educational, consumer goods and health enterprises. I use R, Python and Julia for work, play and for contributing to the community. 
+Expertise in Machine Learning, Psychometrics and Multilevel Modelling. Statistician and Psychologist. TED speaker. I have experience leading data teams on end-to-end predictive modeling in education, consumer goods and health enterprises. Tech-savvy with a love for learning. I use R, Python and Julia for work, play and for contributing to the community.
 
-For work, I have used those languages on my fields of specialization. For contributing to the open-community, I am working on an R package, named after my cats called bluegrafir, that makes easier psychometrics reports. 
-
-For play, I do sports analytics and display results in my blog "Mathematically possible". I tell the hidden story of how Peru's national football team had chances to reach the World Cup after +30 years without attending the tournament. (And we did!).
+For play, I am working on an R package, named after my cats called bluegrafir, that makes easier psychometrics reports. For play, I do Sports Analytics and display results in my blog “Mathematically possible”. I tell the hidden story of how Peru’s national football team had chances to reach the World Cup after +30 years without attending the tournament. (And we did!).
 
 
 ```{r eval=FALSE, include=FALSE}
@@ -25,4 +23,4 @@ For play, I do sports analytics and display results in my blog "Mathematically p
 
 ```
 
-You can look into my resume in spanish [here](Smart_Twenty_Seconds_CV_castellano.pdf) and in english [here](Juan_Carlos_Saravia_resume.pdf)
+You can look into my resume in spanish [here](Juan_Carlos_Saravia_CV_castellano.pdf) and in english [here](Juan_Carlos_Saravia_resume.pdf)
