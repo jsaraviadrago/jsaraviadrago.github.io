@@ -22,5 +22,8 @@ For play, I am working on an R package, named after my cats called bluegrafir, t
 #Tengo la motivación de inspirar a la gente a que use la data para que tome mejores decisiones en los diversos ámbitos de su vida. Mi pasión me ha llevado a crear un espacio de sports analytics para mostrar que el fútbol puede verse de forma científica e interesante. Además, tengo un blog que invita a perderle el temor al uso de la data y a verla amigable.      
 
 ```
-
 You can look into my resume in spanish [here](Juan_Carlos_Saravia_CV_castellano.pdf) and in english [here](Juan_Carlos_Saravia_resume.pdf)
+
+### My superpower, like Megaman is having weapons to solve all data challenges and situations. 
+
+
