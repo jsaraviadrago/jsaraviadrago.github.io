@@ -4,6 +4,8 @@
 
 ### **Blogs**
 
+- [Matemáticamente posible](https://matematicamenteposible.net)
+
 - [Matemáticamente posible](https://www.facebook.com/matematicamenteposible/) sports analytics. [Code](https://github.com/jsaraviadrago/Mate-posible)
 
 - [Stats SOS](https://statssos.net/) blog that explains statistics in a simple way
