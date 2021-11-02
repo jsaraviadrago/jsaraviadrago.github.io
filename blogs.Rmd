@@ -3,8 +3,9 @@
 ---
 
 ### **Blogs**
+<img src="MP.PNG" style="width:25%; margin-right: 20px" align="right">
 
-- [Matemáticamente posible](https://matematicamenteposible.net)
+- [Matemáticamente posible](https://matematicamenteposible.net). 
 
 - [Matemáticamente posible](https://www.facebook.com/matematicamenteposible/) sports analytics. [Code](https://github.com/jsaraviadrago/Mate-posible)
 
