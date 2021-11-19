@@ -9,7 +9,6 @@
 
 - [Matemáticamente posible](https://www.facebook.com/matematicamenteposible/) sports analytics. [Code](https://github.com/jsaraviadrago/Mate-posible)
 
-- [Stats SOS](https://statssos.net/) blog that explains statistics in a simple way
 
 ### **Presentations** 
 
@@ -18,6 +17,8 @@
 - "Matemáticamente posible". (2018). Pechakucha - Volumen 40. Octubre. [Watch it here](https://www.youtube.com/watch?v=kC85LBaDUZo&feature=youtu.be)
 
 ### **Other articles**
+
+- Saravia, J. C. (2020). ¿Qué nos enseño Gareca y la selección peruana en su camino hacia el mundial? [Read here](https://medium.com/@jsaraviadrago/qué-nos-enseño-gareca-y-la-selección-peruana-en-su-camino-hacia-el-mundial-c849dc50fe1).[Code here](https://github.com/jsaraviadrago/Mate-posible/tree/master/Data%20eliminatorias%202022/Previa%20Eliminatorias%202022)
 
 - Saravia, J. C. (2018). Cómo juega Perú. Revista H. 80 1-2.
 [Cover](images/IMG_2809.JPG). [Article](images/Articulo_revista_H.pdf)

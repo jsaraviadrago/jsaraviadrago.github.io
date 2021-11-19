@@ -9,7 +9,7 @@ navbar:
       href: research.html
     - text: "Programming"
       href: software.html
-    - text: "Data Science for good"
+    - text: "Football analytics"
       href: blogs.html
   right:
     - icon: fa-envelope fa-lg
