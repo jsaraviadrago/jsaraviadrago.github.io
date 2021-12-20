@@ -10,7 +10,7 @@ My goal is to encourage and inspire others to use Data to make precise work-rela
 
 Expertise in Machine Learning, Psychometrics and Multilevel Modeling. Statistician and Psychologist. TED speaker. I have experience leading data teams on end-to-end predictive modeling in education, consumer goods and health enterprises. Tech-savvy with a love for learning. I use R, Python and Julia for work, play and for contributing to the community.
 
-For play, I am working on an R package, named after my cats called bluegrafir, that makes easier psychometrics reports. For play, I do Sports Analytics and display results in my blog “Mathematically possible”. I tell the hidden story of how Peru’s national football team had chances to reach the World Cup after +30 years without attending the tournament. (We did!).
+For play, I am working on an R package, named after my cats called bluegrafir, that makes easier psychometrics reports. For play, I do Sports Analytics and display results in my blog “Mathematically possible”. I tell the hidden story of how Peru’s national football team had chances to reach the World Cup after +30 years without attending the tournament. (We did!). 
 
 You can look into my resume in spanish [here](Juan_Carlos_Saravia_CV_castellano.pdf) and in english [here](Juan_Carlos_Saravia_resume.pdf)
 
