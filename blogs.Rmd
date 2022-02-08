@@ -3,7 +3,7 @@
 ---
 
 ### **Blogs and books**
-[<img src="MP.png" style="width:25%; margin-right: 20px" align="right">](MP.png)
+[<img src="MP.png" style="width:25%; margin-right: 20px" align="right">](MAT_POSIBLE_General.png)
 
 - Book: Football is mathematically posible 
 
