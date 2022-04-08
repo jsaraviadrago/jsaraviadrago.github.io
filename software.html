@@ -13,7 +13,7 @@
 
 <title>software.knit</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/darkly.min.css" rel="stylesheet" />
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -235,7 +239,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -300,7 +304,10 @@ $(document).ready(function () {
 <p><img src="images/bluegrafir.PNG" style="width:25%; margin-right: 20px" align="right"></p>
 <div id="bluegrafir" class="section level1">
 <h1><strong>bluegrafir</strong></h1>
-<p>It’s a package under construction and has functions to calculate “Average variance extracted” (AVE) and “Composite reliability”. It let’s make summary tables about model fit on confirmatory factor analysis, structural equation modelling and linear transformations.</p>
+<p>It’s a package under construction and has functions to calculate
+“Average variance extracted” (AVE) and “Composite reliability”. It let’s
+make summary tables about model fit on confirmatory factor analysis,
+structural equation modelling and linear transformations.</p>
 <p>In order to use it, you can follow these steps:</p>
 <pre class="r"><code># Download devtools to open packages hosted in Github.
 install.packages(&quot;devtools&quot;) 
@@ -311,7 +318,9 @@ library(devtools) # Load the package
 # 
 install_github(&quot;jsaraviadrago/bluegrafir&quot;) 
 library(bluegrafir) # Load the package</code></pre>
-<p>If you want to read further about this package you can check the details on this <a href="https://github.com/jsaraviadrago/bluegrafir">Github</a>.</p>
+<p>If you want to read further about this package you can check the
+details on this <a
+href="https://github.com/jsaraviadrago/bluegrafir">Github</a>.</p>
 </div>
 
 
