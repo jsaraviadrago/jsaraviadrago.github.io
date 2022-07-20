@@ -14,11 +14,21 @@
 
 ### **Presentations** 
 
+- Analítica avanzada en fútbol ¿Cómo se diferenciación otras industrias?, Juan Carlos Saravia | UTEC. (2021). [Watch it here](https://www.youtube.com/watch?v=POkbGIYscC8&t=1208s) 
+
+
 - "Matemáticamente posible". (2021). Football Analytics y la historia de Matemáticamente Posible - Entrevista a Juan Carlos Saravia [Watch it here](https://www.youtube.com/watch?v=GpGgB3Ki5FQ) 
 
 - "Matemáticamente posible". (2019). TEDxYouthTukuy. Agosto. [Word cloud code](https://github.com/jsaraviadrago/Mate-posible). [Watch it here](https://www.youtube.com/watch?v=w2bFtUVihrs)
 
 - "Matemáticamente posible". (2018). Pechakucha - Volumen 40. Octubre. [Watch it here](https://www.youtube.com/watch?v=kC85LBaDUZo&feature=youtu.be)
+
+### **Podcasts**
+
+- "Pase del desprecio". (2021). Matemáticamente Posible. [Here](https://open.spotify.com/episode/1zD28oQEBNiIHLnZACexN2?si=6ec8099487684544) 
+
+- "La Charla". (2020). Juan Carlos Saravia. Data analytics en el futbol. [Here](https://open.spotify.com/episode/4Qt25ANwVWdZuJbN8MGaqG?si=6dd7071e6c2f4ddd) 
+
 
 ### **Other articles**
 
