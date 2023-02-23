@@ -2,16 +2,10 @@
 
 
 ---
-### **Work as consultant**
+### **Services as consultant**
 
-- Análisis psicométrico de pruebas a estudiantes para la asignación de carrera. (2020).
-- Análisis psicométrico de pruebas a docentes y cálculo de tamaño de muestra para un estudio de habilidades a docentes. DIFOID, Ministerio de Educación del Perú. (MINEDU) (2019).
-- Análisis predictivo de estilos de comunicación del lider y relación lider-miembro del equipo. ESAN. (2019).
-- Análisis psicométrico de pruebas de habilidades socioemocionales.  DEBEDSAR, Ministerio de Educación del Perú. (MINEDU) (2018).
-- Revisión bibliográfica de variables que predicen la no deserción laboral. Quantum talent. (2018).
-- Análisis de perfiles de estudiantes, bienestar y estilos de vida saludables. Innova schools. (2017).
-- Análisis psicométricos utilizando teoría de respuesta al ítem para medir habilidades de estudiantes en el idioma inglés. Innova schools. (2017).
-- Análisis de predicción de deserción de estudiantes.  Innova schools. (2017).
-- Análisis cuantitativos de satisfacción de clientes. Innova schools. (2017).
+In this page you can find a brochure with all the consultancy services I offer. Since my expertise in data analytics the vast majority of them is regarding that topic. 
 
-Note: I cannot share the code used in these projects due to the agreements with the companies. 
+In spite of that, I'm also a writer so besides football analytics I ca also make articles analyzing football tactics and team behaviors. Here I share with you the [whole brochure.](images/Articulo_revista_H.pdf)
+
+
