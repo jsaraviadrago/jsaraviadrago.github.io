@@ -13,7 +13,7 @@
 
 <title>research.knit</title>
 
-<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/darkly.min.css" rel="stylesheet" />
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -177,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -186,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -301,32 +298,15 @@ $(document).ready(function () {
 
 <hr />
 <hr />
-<div id="work-as-consultant" class="section level3">
-<h3><strong>Work as consultant</strong></h3>
-<ul>
-<li>Análisis psicométrico de pruebas a estudiantes para la asignación de
-carrera. (2020).</li>
-<li>Análisis psicométrico de pruebas a docentes y cálculo de tamaño de
-muestra para un estudio de habilidades a docentes. DIFOID, Ministerio de
-Educación del Perú. (MINEDU) (2019).</li>
-<li>Análisis predictivo de estilos de comunicación del lider y relación
-lider-miembro del equipo. ESAN. (2019).</li>
-<li>Análisis psicométrico de pruebas de habilidades socioemocionales.
-DEBEDSAR, Ministerio de Educación del Perú. (MINEDU) (2018).</li>
-<li>Revisión bibliográfica de variables que predicen la no deserción
-laboral. Quantum talent. (2018).</li>
-<li>Análisis de perfiles de estudiantes, bienestar y estilos de vida
-saludables. Innova schools. (2017).</li>
-<li>Análisis psicométricos utilizando teoría de respuesta al ítem para
-medir habilidades de estudiantes en el idioma inglés. Innova schools.
-(2017).</li>
-<li>Análisis de predicción de deserción de estudiantes. Innova schools.
-(2017).</li>
-<li>Análisis cuantitativos de satisfacción de clientes. Innova schools.
-(2017).</li>
-</ul>
-<p>Note: I cannot share the code used in these projects due to the
-agreements with the companies.</p>
+<div id="data-advisory-services-consulting" class="section level3">
+<h3><strong>Data advisory services &amp; Consulting</strong></h3>
+<p>In this page you can find a brochure with all the consulting services
+I offer. Since my expertise in data analytics the vast majority of them
+is regarding that topic.</p>
+<p>In spite of that, I’m also a writer so besides football analytics I
+ca also make articles analyzing football tactics and team behaviors.
+Here I share with you the <a href="images/Services_consulting.pdf">whole
+brochure.</a></p>
 </div>
 
 
